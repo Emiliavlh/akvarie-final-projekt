@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   findButton.addEventListener("click", () => {
-    window.location.href = "/html/index-find.html";
+    window.location.href = "https://emiliavlh.github.io/akavarie-spil-to/";
   });
 
   colorButton.addEventListener("click", () => {

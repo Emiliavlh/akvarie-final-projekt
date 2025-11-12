@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const colorButton = document.querySelector(".color-fish");
 
   vidensButton.addEventListener("click", () => {
-    window.location.href = "/html/index-viden.html";
+    window.location.href = "https://emiliavlh.github.io/akvarie-spil-et/";
   });
 
   findButton.addEventListener("click", () => {

@@ -17,6 +17,6 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   colorButton.addEventListener("click", () => {
-    window.location.href = "/html/index-color.html";
+    window.location.href = "https://emiliavlh.github.io/akvarie-spil-tre/";
   });
 });
